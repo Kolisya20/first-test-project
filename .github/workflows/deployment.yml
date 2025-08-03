@@ -28,4 +28,4 @@ jobs:
       - name: Build Project
         run: npm run build
       - name: Deploy
-        reu: echo "Deploying..."
+        run: echo "Deploying..."
